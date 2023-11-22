@@ -63,6 +63,18 @@ Click on update and once complete the last updated time and date should change t
 <br />
 </p>
 
+<h3>Excercise 3: Running a Antivirus QuickScan<h3>
+
+<p align="center">
+Lets go back to the main page and click on quickscan to run a quickscan: <br/>
+<img src="https://i.imgur.com/Tbax6BY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+When scan is running: <br/>
+<img src="blob:https://imgur.com/3c7d54b4-c8ba-430e-832f-502363e7be11" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
 <!--
  ```diff
 - text in red
