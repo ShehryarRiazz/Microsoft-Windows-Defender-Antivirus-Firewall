@@ -29,7 +29,7 @@ Lab 2: Windows Defender Firewall
  
 <p align="center">
 Locating the windows security virus and threat protection settings: <br/>
-<img src="https://imgur.com/a/mtSHsou" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HCkd6zj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
