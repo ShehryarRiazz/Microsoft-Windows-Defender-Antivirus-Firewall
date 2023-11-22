@@ -71,7 +71,7 @@ Lets go back to the main page and click on quickscan to run a quickscan: <br/>
 <br />
 <br />
 When scan is running: <br/>
-<img src="blob:https://imgur.com/3c7d54b4-c8ba-430e-832f-502363e7be11" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gkObLYf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
