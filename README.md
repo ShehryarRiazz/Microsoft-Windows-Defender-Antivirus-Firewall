@@ -25,6 +25,8 @@ Lab 2: Windows Defender Firewall
 
 <h2>Lab 1 Walkthrough - Windows Defender Antivirus:</h2>
 
+<h3>Excercise 1: Reviewing Windows Defender Virus & Threat protection<h3>
+ 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
