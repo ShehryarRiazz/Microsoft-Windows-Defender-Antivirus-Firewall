@@ -83,6 +83,20 @@ This page shows you the results of the last scan. You see the files identified a
 <br />
 <br />
 </p>
+
+<h3>Lets now run a custom scan to only scan files in the downloads folder<h3>
+
+<p align="center">
+Go to the scan options under quick scan and click on custom scan <br/>
+<img src="https://i.imgur.com/b7O77h2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click Run scan and this will open up the folders options select downloads here and click select folder. The scan will run and show you results similar to before. <br/>
+<img src="https://i.imgur.com/Io5Ywrj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+ 
 <!--
  ```diff
 - text in red
