@@ -50,6 +50,19 @@ This brings us to a page of the settings with various options
 <br />
 </p>
 
+<h3>Excercise 2: Updating Threat Definitions<h3>
+
+<p align="center">
+Now lets update the threat definitions by clicking on check for updates under Virus and threat protection updates: <br/>
+<img src="https://i.imgur.com/EuTxxXv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click on update and once complete the last updated time and date should change to present <br/>
+<img src="https://i.imgur.com/Gyd06hZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+
 <!--
  ```diff
 - text in red
