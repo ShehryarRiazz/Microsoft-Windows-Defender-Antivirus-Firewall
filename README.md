@@ -74,6 +74,14 @@ When scan is running: <br/>
 <img src="https://i.imgur.com/gkObLYf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+After Scan is complete lets click on threat history to see further details: <br/>
+<img src="https://i.imgur.com/aOFmxhC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+This page shows you the results of the last scan. You see the files identified as a threat and quarantined, so they cannot damage your device. You then see files identified as potential threats but allowed to continue running: <br/>
+<img src="https://i.imgur.com/M9bAv3S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 <!--
  ```diff
