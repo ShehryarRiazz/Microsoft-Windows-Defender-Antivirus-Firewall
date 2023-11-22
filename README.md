@@ -28,8 +28,8 @@ Lab 2: Windows Defender Firewall
 <h3>Excercise 1: Reviewing Windows Defender Virus & Threat protection<h3>
  
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Locating the windows security virus and threat protection settings: <br/>
+<img src="https://imgur.com/a/mtSHsou" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
