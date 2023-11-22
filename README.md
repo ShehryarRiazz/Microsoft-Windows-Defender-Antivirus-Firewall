@@ -45,7 +45,7 @@ This brings us to a page of the settings with various options
 - Virus & threat protection settings: Here, you can access options for managing your virus and threat protection settings. You can customize your protection level, opt to send sample files to Microsoft, exclude files or folders from scans, or temporarily stop your protection.
 - Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
 - Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes. :  <br/>
-<img src="https://i.imgur.com/Jtp9wuA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9kVJSx5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
