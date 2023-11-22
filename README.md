@@ -3,12 +3,12 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This project consists of two hands on labs. 
+### This project consists of two hands on labs. 
 
 Lab 1: Windows Defender Antivirus 
 - Reviewing Windows Security Virus and threat protection.
 - Updating threat definitions.
-- Running Windows Defender Antivirus quick scan.
+- Running a Windows Defender Antivirus quick scan.
 
 Lab 2: Windows Defender Firewall
 <br />
